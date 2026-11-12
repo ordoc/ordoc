@@ -17,6 +17,8 @@ Ingeniero de Sistemas con especialización en Auditoría de Sistemas. Vengo de l
 | [Cosechas](https://cosechas-2a6cf.web.app/caso-de-estudio/) | Finanzas familiares con indicadores de salud financiera · caso de estudio |
 | [Aprendiendo con ORDOC](https://ordocedtech.vercel.app/) | Ruta de estudio gratuita en español para el PL-300, en construcción |
 
+Además, tres aplicaciones con código privado (Ordoc English, FamilyGym y AcademyX) y el detalle de Cosechas y ORDOC están en [Casos de estudio](https://github.com/ordoc/casos-de-estudio).
+
 ### Herramientas
 
 `Power BI` `DAX` `Power Query` `SQL Server` `Modelado de datos` `Calidad de datos` `Pruebas de software` `Python (datos sintéticos)` `React y TypeScript (con apoyo de IA)` `Firebase`
