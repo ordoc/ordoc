@@ -21,7 +21,9 @@ Además, tres aplicaciones con código privado (Ordoc English, FamilyGym y Acade
 
 ### Herramientas
 
-`Power BI` `DAX` `Power Query` `SQL Server` `Modelado de datos` `Calidad de datos` `Pruebas de software` `Python (datos sintéticos)` `React y TypeScript (con apoyo de IA)` `Firebase`
+**Datos y calidad:** `Power BI` `DAX` `Power Query` `SQL Server` `Modelado de datos` `Calidad de datos` `Pruebas de software` `Python (datos sintéticos)`
+
+**Web, con apoyo de IA:** `React y TypeScript` `Next.js` `Firebase` `Supabase` `MDX` `Vercel`
 
 ### Contacto
 
