@@ -19,11 +19,13 @@ Ingeniero de Sistemas con especialización en Auditoría de Sistemas. Vengo de l
 
 Además, tres aplicaciones con código privado (Ordoc English, FamilyGym y AcademyX) y el detalle de Cosechas y ORDOC están en [Casos de estudio](https://github.com/ordoc/casos-de-estudio).
 
+En mis aplicaciones la medición va incluida: todas tienen un panel de progreso para quien las usa, y varias suman métricas de uso para el administrador (activos, retención, qué se practica), siempre con cifras agregadas.
+
 ### Herramientas
 
 **Datos y calidad:** `Power BI` `DAX` `Power Query` `SQL Server` `Modelado de datos` `Calidad de datos` `Pruebas de software` `Python (datos sintéticos)`
 
-**Web, con apoyo de IA:** `React y TypeScript` `Next.js` `Firebase` `Supabase` `MDX` `Vercel`
+**Web, con apoyo de IA:** `React y TypeScript` `Next.js` `Firebase` `Supabase` `MDX` `Vercel` `API de Gemini`
 
 ### Contacto
 
