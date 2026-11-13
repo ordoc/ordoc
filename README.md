@@ -15,7 +15,7 @@ Ingeniero de Sistemas con especialización en Auditoría de Sistemas. Vengo de l
 | [Ventas y margen (Contoso)](https://portfolio-c649d.web.app/#contoso) | Comparación mes a mes por marca, categoría y país, y segmentación RFM |
 | [Actividad sísmica mundial y Colombia](https://portfolio-c649d.web.app/#terremotos) | Análisis de una década de sismos del USGS, con una hoja de Colombia |
 | [Cosechas](https://cosechas-2a6cf.web.app/caso-de-estudio/) | Finanzas familiares con indicadores de salud financiera · caso de estudio |
-| [Aprendiendo con ORDOC](https://ordocedtech.vercel.app/) | Ruta de estudio gratuita en español para el PL-300, en construcción |
+| [Aprendiendo con ORDOC](https://ordocedtech.vercel.app/) | Mis apuntes de estudio para el examen PL-300 de Power BI, gratis y en construcción |
 
 Además, tres aplicaciones con código privado (Ordoc English, FamilyGym y AcademyX) y el detalle de Cosechas y ORDOC están en [Casos de estudio](https://github.com/ordoc/casos-de-estudio).
 
