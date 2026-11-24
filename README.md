@@ -11,6 +11,7 @@ Ingeniero de Sistemas con especialización en Auditoría de Sistemas. Vengo de l
 | Proyecto | De qué trata |
 |---|---|
 | [Conciliación bancaria](https://github.com/ordoc/conciliacion-bancaria-powerbi) | Informe de Power BI con datos sintéticos: match por moneda, extractos esperados frente a recibidos y comparación entre pruebas y producción · [ficha](https://portfolio-c649d.web.app/#conciliacion) |
+| [Cómo medir tu GitHub](https://github.com/ordoc/como-medir-tu-github) | Informe de Power BI y extractor en Python para medir cómo trabajas a partir de tus commits: ritmo, calidad y coautoría de IA declarada. Datos de ejemplo sintéticos · código abierto (MIT) |
 | [Análisis de cartera de crédito](https://portfolio-c649d.web.app/#cartera) | Estado de la cartera al corte: vencida, tramos de atraso y previsión |
 | [Ventas y margen (Contoso)](https://portfolio-c649d.web.app/#contoso) | Comparación mes a mes por marca, categoría y país, y segmentación RFM |
 | [Actividad sísmica mundial y Colombia](https://portfolio-c649d.web.app/#terremotos) | Análisis de una década de sismos del USGS, con una hoja de Colombia |
@@ -19,11 +20,11 @@ Ingeniero de Sistemas con especialización en Auditoría de Sistemas. Vengo de l
 
 Además, tres aplicaciones con código privado (Ordoc English, FamilyGym y AcademyX) y el detalle de Cosechas y ORDOC están en [Casos de estudio](https://github.com/ordoc/casos-de-estudio).
 
-En mis aplicaciones la medición va incluida: todas tienen un panel de progreso para quien las usa, y varias suman métricas de uso para el administrador (activos, retención, qué se practica), siempre con cifras agregadas.
+En mis aplicaciones la medición va incluida: todas tienen un panel de progreso para quien las usa, y varias suman métricas de uso para el administrador (activos, retención, qué se practica), siempre con cifras agregadas. También mido mi propio trabajo en GitHub, dejando explícito lo que esa medición no dice.
 
 ### Herramientas
 
-**Datos y calidad:** `Power BI` `DAX` `Power Query` `SQL Server` `Modelado de datos` `Calidad de datos` `Pruebas de software` `Python (datos sintéticos)`
+**Datos y calidad:** `Power BI` `DAX` `Power Query` `SQL Server` `Modelado de datos` `Calidad de datos` `Pruebas de software` `Python (extracción y datos sintéticos)` `GitHub CLI`
 
 **Web, con apoyo de IA:** `React y TypeScript` `Next.js` `Firebase` `Supabase` `MDX` `Vercel` `API de Gemini`
 
